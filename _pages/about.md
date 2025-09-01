@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CS PhD Student • <a href='https://www.grasp.upenn.edu/'>GRASP Lab @ UPenn</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: richeek1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><i class="fa-solid fa-envelope"></i> richeek@seas.upenn.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  # limit: 3 # removed limit so all news items show in the scrollable area
 
 latest_posts:
   enabled: true
@@ -27,8 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third-year **Computer Science PhD student** at the <a href="https://www.seas.upenn.edu/"><strong>University of Pennsylvania</strong></a>, working with <a href="https://pratikac.github.io/"><strong>Prof. Pratik Chaudhari</strong></a> in the <a href="https://www.grasp.upenn.edu/"><strong>GRASP Lab</strong></a>. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Broadly, I work on **Event-based Vision, Self Supervised Learning, Robotic Perception,** and **Multimodal Sensing**. I am particularly interested in building efficient perception systems, often mimicking the human retina and the visual cortex. The algorithms I design can handle dynamic environments with vastly varying scene conditions and lighting --- imagine cars moving at high velocities and pedestrians crossing dimly lit streets at night. These situations are very common and arise naturally when robots in the wild try to perceive and solve real tasks. It is only fair to build intelligent systems that are invariant to these nuisances without requiring specialized handling of every scenario. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to this, I completed my bachelor's with honors in **Computer Science and Engineering** from <a href="http://www.iitb.ac.in"><strong>IIT Bombay</strong></a>, where I was advised by <a href="https://www.cse.iitb.ac.in/~pjyothi/"><strong>Prof. Preethi Jyothi</strong></a> and <a href="https://www.ee.iitb.ac.in/~ajitvr/"><strong>Prof. Ajit Rajwade</strong></a>. As an undergrad, I spent my summers doing AI research as an intern in the labs of <a href="https://abacus.ai/"><strong>Abacus.AI</strong></a>, <a href="https://ai.sony/"><strong>Sony Japan</strong></a>, <a href="https://www.univie.ac.at/"><strong>Universität Wien</strong></a>, and <a href="https://www.tudelft.nl/"><strong>TU Delft</strong></a>. In those four years, I explored diverse areas including Computer Vision, Natural Language Understanding, Causal Inference, Compressed Sensing, and Behavioral Economics.
+
+<!-- This interdisciplinary background helps me approach problems from multiple perspectives and find solutions at the intersection of different fields. -->
+
+If I am not working, you'll probably find me with my guitar, camera, or some <a href="https://en.wikipedia.org/wiki/1Q84">Murakami</a> novel!

@@ -49,6 +49,19 @@ table.table a {
   }
 }
 
+// Fix for bold links showing in black
+strong a,
+b a,
+a strong,
+a b {
+  color: var(--global-theme-color) !important;
+
+  &:hover {
+    color: var(--global-theme-color) !important;
+    text-decoration: underline;
+  }
+}
+
 .table-dark {
   background-color: transparent;
   &.table-bordered {
@@ -553,8 +566,18 @@ footer.sticky-bottom {
   padding-bottom: 3rem;
 
   h1 {
-    color: var(--global-theme-color);
-    font-size: 5rem;
+    color: var(--global-text-color);
+    font-size: 2.5rem;
+  }
+}
+
+// News
+
+.news {
+  table {
+    th[scope="row"] {
+      font-family: monospace, monospace;
+    }
   }
 }
 
