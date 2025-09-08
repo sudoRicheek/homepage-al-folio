@@ -314,7 +314,7 @@ Whether you're interested in autonomous sensing, non-destructive material testin
   author={Richeek Das},
   journal={Personal Blog},
   year={2024},
-  url={https://your-website.com/blog/2024/mmwave-material-extraction/}
+  url={https://www.seas.upenn.edu/~richeek/blog/2024/mmwave-material-extraction/}
 }
 ```
 {% enddetails %}
