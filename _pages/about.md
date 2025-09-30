@@ -34,3 +34,8 @@ Prior to this, I completed my bachelor's with honors in **Computer Science and E
 <!-- This interdisciplinary background helps me approach problems from multiple perspectives and find solutions at the intersection of different fields. -->
 
 If I am not working, you'll probably find me with my guitar, camera, or some <a href="https://en.wikipedia.org/wiki/1Q84">Murakami</a> novel!
+
+
+<p style="color: #ff3636; font-weight: bold; font-size: 1.1em;">
+  I am actively looking for Summer 2026 internships in Robotics, Autonomous Driving or Representation Learning!
+</p>

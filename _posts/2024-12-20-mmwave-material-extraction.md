@@ -2,7 +2,7 @@
 layout: distill
 title: Building Differentiable Simulators for mmWave Radar Signals
 description: This tutorial provides a step-by-step approach to building differentiable simulations for mmWave radar signals, enabling the extraction of material properties from RF measurements in 3D scenes.
-date: 2024-01-01
+date: 2024-05-20
 featured: false
 tags: machine-learning rf-engineering neural-fields ray-tracing
 giscus_comments: false
