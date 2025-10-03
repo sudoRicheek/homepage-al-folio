@@ -37,5 +37,5 @@ If I am not working, you'll probably find me with my guitar, camera, or some <a 
 
 
 <p style="color: #ff3636; font-weight: bold; font-size: 1.1em;">
-  I am actively looking for Summer 2026 internships in Robotics, Autonomous Driving or Representation Learning!
+  I am actively looking for Summer 2026 internships in Robotics, Autonomous Driving or Representation Learning! Check out our latest project <a href="https://www.seas.upenn.edu/~richeek/f3" style="color: #0066cc;">Fast Feature Field (F<sup>3</sup>)</a> to understand what I have been working on recently.
 </p>
