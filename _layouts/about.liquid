@@ -49,6 +49,11 @@ layout: default
       </div>
     {% endif %}
 
+    {% if page.codebases_content %}
+      <h2>{{ page.codebases_title | default: 'code i maintain' }}</h2>
+      {{ page.codebases_content | markdownify }}
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>

@@ -23,19 +23,21 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+codebases_title: code i maintain
+codebases_content: |
+  - <a href="https://github.com/grasp-lyrl/fast-feature-fields"><strong>F<sup>3</sup></strong></a>
+  - <a href="https://github.com/grasp-lyrl/neurosim"><strong>neurosim</strong></a> and <a href="https://github.com/grasp-lyrl/neurosim_cu_esim"><strong>its CUDA event simulator</strong></a> (trust me its very fast)
+  - <a href="https://github.com/sudoRicheek/cortex"><strong>cortex</strong></a>
 ---
 
 I am a third-year **Computer Science PhD student** at the <a href="https://www.seas.upenn.edu/"><strong>University of Pennsylvania</strong></a>, working with <a href="https://pratikac.github.io/"><strong>Prof. Pratik Chaudhari</strong></a> in the <a href="https://www.grasp.upenn.edu/"><strong>GRASP Lab</strong></a>. 
 
-Broadly, I work on **Event-based Vision, Self Supervised Learning, Robotic Perception,** and **Multimodal Sensing**. I am particularly interested in building efficient perception systems, often mimicking the human retina and the visual cortex. The algorithms I design can handle dynamic environments with vastly varying scene conditions and lighting --- imagine cars moving at high velocities and pedestrians crossing dimly lit streets at night. These situations are very common and arise naturally when robots in the wild try to perceive and solve real tasks. It is only fair to build intelligent systems that are invariant to these nuisances without requiring specialized handling of every scenario. 
+Broadly, I work on **Self Supervised Learning, Autonomy Sensing, Event-based Vision** and **Localization**. I am particularly interested in building efficient perception systems, often mimicking the human retina and the visual cortex. The algorithms I design can handle dynamic environments with vastly varying scene conditions and lighting --- imagine cars reacting quickly at high velocities and pedestrians crossing dimly lit streets at night.
 
-Prior to this, I completed my bachelor's with honors in **Computer Science and Engineering** from <a href="http://www.iitb.ac.in"><strong>IIT Bombay</strong></a>, where I was advised by <a href="https://www.cse.iitb.ac.in/~pjyothi/"><strong>Prof. Preethi Jyothi</strong></a> and <a href="https://www.ee.iitb.ac.in/~ajitvr/"><strong>Prof. Ajit Rajwade</strong></a>. As an undergrad, I spent my summers doing AI research as an intern in the labs of <a href="https://abacus.ai/"><strong>Abacus.AI</strong></a>, <a href="https://ai.sony/"><strong>Sony Japan</strong></a>, <a href="https://www.univie.ac.at/"><strong>Universität Wien</strong></a>, and <a href="https://www.tudelft.nl/"><strong>TU Delft</strong></a>. In those four years, I explored diverse areas including Computer Vision, Natural Language Understanding, Causal Inference, Compressed Sensing, and Behavioral Economics.
+Prior to this, I was a CS undergrad at <a href="http://www.iitb.ac.in"><strong>IIT Bombay</strong></a>. I was fortunate to be advised by <a href="https://www.cse.iitb.ac.in/~pjyothi/"><strong>Prof. Preethi Jyothi</strong></a> and <a href="https://www.ee.iitb.ac.in/~ajitvr/"><strong>Prof. Ajit Rajwade</strong></a>. As an undergrad, I spent my summers doing AI research in the labs of <a href="https://abacus.ai/"><strong>Abacus.AI</strong></a>, <a href="https://ai.sony/"><strong>Sony Japan</strong></a>, <a href="https://www.univie.ac.at/"><strong>Universität Wien</strong></a>, and <a href="https://www.tudelft.nl/"><strong>TU Delft</strong></a>. I explored diverse areas --- Computer Vision, Natural Language Understanding, Causal Inference, Compressed Sensing, and Behavioral Economics.
 
 <!-- This interdisciplinary background helps me approach problems from multiple perspectives and find solutions at the intersection of different fields. -->
 
 If I am not working, you'll probably find me with my guitar, camera, or some <a href="https://en.wikipedia.org/wiki/1Q84">Murakami</a> novel!
 
-
-<p style="color: #ff3636; font-weight: bold; font-size: 1.1em;">
-  I am actively looking for Summer 2026 internships in Robotics, Autonomous Driving or Representation Learning! Check out our latest project <a href="https://www.seas.upenn.edu/~richeek/f3" style="color: #0066cc;">Fast Feature Field (F<sup>3</sup>)</a> to understand what I have been working on recently.
-</p>
