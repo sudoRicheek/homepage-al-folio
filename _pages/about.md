@@ -31,7 +31,7 @@ codebases_content: |
   - <a href="https://github.com/sudoRicheek/cortex"><strong>cortex</strong></a>
 ---
 
-I am a third-year **Computer Science PhD student** at the <a href="https://www.seas.upenn.edu/"><strong>University of Pennsylvania</strong></a>, working with <a href="https://pratikac.github.io/"><strong>Prof. Pratik Chaudhari</strong></a> in the <a href="https://www.grasp.upenn.edu/"><strong>GRASP Lab</strong></a>. 
+I am a **Computer Science PhD student** at the <a href="https://www.seas.upenn.edu/"><strong>University of Pennsylvania</strong></a>, working with <a href="https://pratikac.github.io/"><strong>Prof. Pratik Chaudhari</strong></a> in the <a href="https://www.grasp.upenn.edu/"><strong>GRASP Lab</strong></a>. 
 
 Broadly, I work on **Self Supervised Learning, Autonomy Sensing, Event-based Vision** and **Localization**. I am particularly interested in building efficient perception systems, often mimicking the human retina and the visual cortex. The algorithms I design can handle dynamic environments with vastly varying scene conditions and lighting --- imagine cars reacting quickly at high velocities and pedestrians crossing dimly lit streets at night.
 
